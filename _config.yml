@@ -1,0 +1,18 @@
+# Site settings
+title: "Bradley & May"
+description: |
+    Pendrell Hall
+
+    22 March 2021
+owner: Bradley Pearce
+first_published: 2018
+email: bradmpearce@gmail.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "blitmaps.github.io" # the base hostname & protocol for your site
+
+# Google analytics
+#google_analytics: "UA-40721189-2"
+
+
+# Build settings
+markdown: kramdown
