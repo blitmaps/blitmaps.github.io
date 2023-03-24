@@ -11,7 +11,7 @@ During the 2019 lockdowns in the UK, I embarked on a long standing desire to mak
 
 If you'd like to see some gameplay, you can see it [here](https://www.youtube.com/watch?v=MH0moStN-Ng).
 
-It can also be purchased [here](https://www.bitmapsoft.co.uk/product/slayers-of-high-toro/#:~:text=Slayers%20of%20High%20Toro%20is,defend%20your%20kingdoms%20from%20attack.).
+It can also be purchased [here](https://www.bitmapsoft.co.uk/product/slayers-of-high-toro/).
 
 <br>
 <br>
