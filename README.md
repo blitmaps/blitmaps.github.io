@@ -4,6 +4,16 @@ I'm a neuroscientist, programmer and a director and co-founder of [Polygeist](ht
 <br>
 <br>
 
+# Recent Research
+A majority of my recent research is confidential, however:
+
+I have been working with the excellent team at Parkinson's UK on automatically detecting Parkinson's Disease in brain samples; you can read about it [here](https://www.biorxiv.org/content/10.1101/2022.08.30.505459v2).
+
+I have also been working to automatically estimate how long patients will stay in hospital, which you can read about [here](https://transform.england.nhs.uk/blogs/using-ai-to-predict-long-term-hospital-stays-an-ai-skunkworks-proof-of-concept/).
+
+<br>
+<br>
+
 # Slayers of High Toro
 <img src="slayers_box.png" width="400" height="400">
 
