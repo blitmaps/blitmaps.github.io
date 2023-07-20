@@ -26,3 +26,7 @@ It can also be purchased [here](https://www.bitmapsoft.co.uk/product/slayers-of-
 <br>
 <br>
 
+# Privacy Policy
+
+I do not collect any data from you, if you view this page GitHub may use cookies on your device if you have allowed them.
+
