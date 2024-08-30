@@ -49,7 +49,7 @@ also restricted - cards like Demonic Tutor.
 
 When a deck can contain a number of redundant pieces to push ahead on turns (such as Sol Ring, Mana Crypt etc.) and back 
 that up with Demonic Tutor to go and get combo pieces, or any other set of "extra copies", any organic strategy has no chance.
-Nice army or goblins nerd, how about I just tutor for my A+B combo, and you're dead!
+'Nice army of goblins nerd, how about I just tutor for my A+B combo, and you're dead!'
 Now, we don't want a massive banned list, we like playing and seeing these cards, but there should be some cost to using them. 
 Canadian Highlander does this with points, which works great for creating really balanced games, but sadly warps the 
 deckbuilding around your 'picks'.  But we already have an elegant system in Highlander, you only get one.  So I propose a
