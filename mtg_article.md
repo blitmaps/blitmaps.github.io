@@ -3,7 +3,7 @@
 
 ## TL;DR
 
-I'm proposing a set of house rules, that could be potentially be used in Commander to make the games more fun, for a mixed 
+I'm proposing a set of house rules, that could potentially be used in Commander to make the games more fun, for a mixed 
 play group, and less repetitive.  The format should be robust enough to accommodate horrible people like me, and wholesome 
 people who want, and frankly deserve, to be able to cast their 'Bruenor Battlehammer' in peace.
 
