@@ -1,6 +1,9 @@
 # rEDH: a feeble attempt at balancing commander, in the spirit of cEDH.
 ### by Brad Pearce, Aug 2024
 
+## Update Jul 2025
+Wizards of the coast has implemented a very similar proposal as this article, with 'Game Changers'.
+
 ## TL;DR
 
 I'm proposing a set of house rules, that could potentially be used in Commander to make the games more fun, for a mixed 
